@@ -12,7 +12,24 @@
 	color: aquamarine;
 	font-size: 16px;
 }
-#middle_divider {
+#middle_header {
 	font-weight: 300;
 	font-size: 42px;
+	color: white;
+}
+#middle_paragraph {
+	font-size: 21px;
+	color: gray;
+}
+#cellphone_image {
+	margin-top: 20px;
+}
+.footer h1 {
+	color: white;
+	font-weight: normal;
+	font-size: 50px;
+}
+.copyright p {
+	color: gray;
+	text-align: right;
 }
